@@ -34,7 +34,7 @@
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
     <PackageReference Include="StackExchange.Redis" Version="2.2.4" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
 
 </Project>
